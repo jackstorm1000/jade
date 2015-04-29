@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="variables_set" id="109" inline="true" x="-6" y="1">
-    <field name="VAR">item</field>
+  <block type="math_arithmetic" id="140" inline="true" x="78" y="-65">
+    <field name="OP">ADD</field>
   </block>
   <block type="movement_forward" id="39" x="222" y="69">
     <next>
