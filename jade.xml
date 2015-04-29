@@ -1,10 +1,10 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="math_arithmetic" id="140" inline="true" x="78" y="-65">
+  <block type="math_arithmetic" id="1" inline="true" x="78" y="-65">
     <field name="OP">ADD</field>
   </block>
-  <block type="movement_forward" id="39" x="222" y="69">
+  <block type="movement_forward" id="2" x="222" y="69">
     <next>
-      <block type="comment_comment" id="127">
+      <block type="comment_comment" id="3">
         <field name="TEXT">hello</field>
       </block>
     </next>
