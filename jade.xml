@@ -1,8 +1,11 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="variables_set" id="109" inline="true" x="-6" y="1">
+    <field name="VAR">item</field>
+  </block>
   <block type="movement_forward" id="39" x="222" y="69">
     <next>
-      <block type="led_select" id="65" inline="true">
-        <field name="ACTION">FLASH</field>
+      <block type="comment_comment" id="127">
+        <field name="TEXT">hello</field>
       </block>
     </next>
   </block>
